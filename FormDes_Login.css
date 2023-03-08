@@ -1,0 +1,13 @@
+body {
+  border-radius: ;
+  background-attachment: fixed;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  width: 1000px;
+}
+span {
+  margin: 10%;
+  font-size: 25px;
+
+  background-repeat: no-repeat;
+}
